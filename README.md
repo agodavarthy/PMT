@@ -4,8 +4,13 @@ Create the virtual environment by running:
 
 pip -r requirements.txt
 
+
 Download the Full Movielens data(58,000 movies) from this link: https://grouplens.org/datasets/movielens/latest/
 Save it to data/ folder
+
+### MongoDB
+
+Install mongoDB. Unzip data/db.gz and import it to the database.
 
 ## Preprocess
 1) Matches the mentioned movies in redial data with the movielens IDs.
