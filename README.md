@@ -7,7 +7,7 @@ pip install -r requirements.txt
 
 Download the Full Movielens data(58,000 movies) from this link: https://grouplens.org/datasets/movielens/latest/
 
-### Install PyMongo, Load the data into PyMongo.
+Install PyMongo, Load the data into PyMongo.
 
 
 ## Preprocess
